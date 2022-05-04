@@ -252,6 +252,7 @@ footer {
         align-items: flex-end;
         gap: 20px;
         width: 62%;
+        max-width: 920px;
         height: 200px;
         margin-top: 60px;
     }
